@@ -1,15 +1,11 @@
----
-layout: default
-title: Shahrzad Sheikhi | Portfolio
-theme: jekyll-theme-midnight
----
+Welcome to my website👋
 
 # Shahrzad (Sherry) Sheikhi 👋
 ### 🌌 Astrophysicist | 💻 Data Scientist | 🚀 Frontier Researcher
 
-[cite_start]I am an astrophysicist and professional data scientist dedicated to decoding the high-energy universe[cite: 7, 21]. [cite_start]My work bridges the gap between complex multi-wavelength observations and scalable computational modeling[cite: 7, 8]. 
+I am an astrophysicist and professional data scientist dedicated to decoding the high-energy universe[cite: 7, 21]. [cite_start]My work bridges the gap between complex multi-wavelength observations and scalable computational modeling
 
----
+
 
 ### 🔍 Research & Impact
 * [cite_start]**High-Energy Astrophysics:** Determining the mass and spin of the black hole inside **GRB 220101A** using Fermi/LAT analysis[cite: 53, 60].
