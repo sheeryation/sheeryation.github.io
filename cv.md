@@ -1,15 +1,13 @@
 ---
 layout: default
-title: CV | Shahrzad Sheikhi
+title: CV
 ---
-**[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [Hobbies](hobbies.md) | [CV](cv.md) | [Contact](contact.md)**
 
 # Curriculum Vitae
 
-* **M.Sc. [cite_start]Physics**: Alzahra University (GPA 16.5/20)[cite: 20].
-* **B.Sc. [cite_start]Physics**: Alzahra University (GPA 16/20)[cite: 18].
-* **Languages**: Persian (Native), English (Fluent), German (Advanced)[cite: 89, 90, 91].
+I am a published researcher with a Master's in Physics from Alzahra University and professional experience in Data Science.
 
----
 ### 📥 Download My Full CV
-[Click here to download my CV (PDF)](SharzadSheikhi_CV%20(1).pdf)
+[Click here to download my CV (PDF)](SharzadSheikhi_CV (1).pdf)
+
+[Home](index) | [Research](research) | [Publications](publications) | [Hobbies](hobbies) | [CV](cv) | [Contact](contact)
