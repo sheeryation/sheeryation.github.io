@@ -1,19 +1,20 @@
 ---
 layout: default
-title: Hobbies
+title: Hobbies | Shahrzad Sheikhi
 ---
 
-# Beyond the Lab
+# 🎨 Beyond the Stars
 
 ### 👗 Galactic Fashion
-I founded a business selling handmade galactic clothing and accessories—bringing the beauty of the cosmos into wearable art.
-![Fashion](fashion.jpg)
+[cite_start]I believe in having "a little bit of galaxy in everything I own"[cite: 10]. [cite_start]I founded a business selling **handmade galactic clothing and accessories** to share the beauty of the cosmos through fashion[cite: 11].
+![Fashion Picture](fashion.jpg)
 
-### 🔭 Astronomy Education
-I have over a decade of experience as a night sky guide and astronomy teacher, sharing the stars with the public.
-![Telescope](telescope.jpg)
+### 🔭 Astronomy Education & Guiding
+[cite_start]I have over a decade of experience as an **amateur astronomer and night sky guide** (2015-2025)[cite: 83]. [cite_start]I enjoy teaching astronomy to all ages, from kindergarten kids to university students[cite: 74, 85, 87].
+![Telescope Picture](telescope.jpg)
 
-### ⚽ Sports & Dance
-I enjoy soccer and dancing as a way to stay energized and creative.
+### ⚽ Exploration & Energy
+[cite_start]I have lived in different cities and countries since I was 18 to experience diverse cultures[cite: 14]. I also enjoy **soccer** and **dancing** to stay active and creative.
 
-[Home](index) | [Research](research) | [Publications](publications) | [Hobbies](hobbies) | [CV](cv) | [Contact](contact)
+---
+**[🏠 Home](index) | [🔭 Research](research) | [📄 CV](cv)**
