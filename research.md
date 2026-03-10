@@ -23,4 +23,5 @@ title: Research | Shahrzad Sheikhi
 * **14 inch Dobsonian telescopes** and professional binocular observation.
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
+
