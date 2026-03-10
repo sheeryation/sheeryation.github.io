@@ -16,12 +16,6 @@ My journey is defined by resilience. [cite_start]After successfully defeating a 
 <div style="clear: both;"></div>
 
 ---
-
-### 📸 Moments in Science
-
-<img src="Saturn.jpg" alt="Shahrzad Sheikhi at Saturn Monument" style="width: 300px; height: 300px; object-fit: cover; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p style="text-align: center; font-style: italic; color: #666;">Exploring the intersection of art and planetary science.</p>
-
 ---
 
 ### 🧭 Navigation
