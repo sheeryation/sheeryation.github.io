@@ -16,4 +16,4 @@ I have over a decade of experience as an **amateur astronomer and night sky guid
 I have lived in different cities and countries since I was 18 to experience diverse cultures. I also enjoy **soccer** and **dancing** to stay active and creative.
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
