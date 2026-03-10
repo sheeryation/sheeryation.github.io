@@ -17,10 +17,6 @@ title: Research | Shahrzad Sheikhi
 > ### 🌟 Stellar Modeling
 > Professional experience simulating stellar evolution using the **MESA** platform.
 
-### 📡 Observational Experience
-* **2.6 m Schmidt telescope**, Byurakan Astrophysical Observatory (BAO), Armenia.
-* **3.4 m optical telescope**, Iranian National Observatory (INO), Isfahan.
-* **14 inch Dobsonian telescopes** and professional binocular observation.
 
 ---
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
