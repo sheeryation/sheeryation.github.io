@@ -1,42 +1,35 @@
 ---
 layout: default
-title: Hobbies | Shahrzad Sheikhi
+title: Home
 ---
 
-# 🎨 Beyond the Stars
+# Shahrzad (Sherry) Sheikhi 👋
 
-My life is a constant search for harmony—whether it's in the mathematical laws of a galaxy or the precise movements of a dance.
+<img src="profile.jpg" alt="Shahrzad Sheikhi" style="float: left; margin-right: 20px; margin-bottom: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 2px solid #333;">
 
----
+### 🌌 Astrophysicist | 💻 Data Scientist | 🚀 Frontier Researcher
 
-### 🩰 Ballet Dancing: The Art of Precision
-Ballet is where my discipline meets my creativity. Just like the orbits of planets, ballet requires a perfect balance of strength, grace, and technical accuracy. 
-* **Focus:** Classical technique, poise, and rhythmic storytelling.
-* **Connection:** I find that the mental focus required for complex astrophysics calculations is very similar to the "flow state" I achieve during a challenging ballet sequence.
+I am an astrophysicist and professional data scientist dedicated to decoding the high-energy universe. Currently based in **Yerevan, Armenia**, I work at **CodeCraft Innovations** while continuing research collaborations with **IPM Iran** and **Moscow University**.
 
+My journey is defined by resilience. After successfully defeating a brain tumor during my studies, I committed myself to becoming an idol for girls worldwide to fight for their dreams. My passion for the stars extends to my lifestyle—I even run a business selling handmade galactic clothing and accessories.
+
+<div style="clear: both;"></div>
 
 ---
 
 ### 👗 Galactic Fashion & Entrepreneurship
-I believe in having "a little bit of galaxy in everything I own." I founded a business selling **handmade galactic clothing and accessories** to share the beauty of the cosmos through wearable art. This venture allowed me to blend my scientific background with my love for design.
 
-<img src="dress_photo.jpg" alt="Shahrzad Clothing" style="width:25%; max-width:100px; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #eee;">
-<p style="text-align: center; font-style: italic; color: #666;"
-
----
-
-### 🔭 Astronomy Education & Guiding
-For over a decade (2015-2025), I have served as an **amateur astronomer and night sky guide**. 
-* **Outreach:** I’ve taught everyone from kindergarten kids to university students. 
-* **Goal:** To inspire the next generation of "frontier women" in science, showing them that the sky has no limits.
+<img src="dress_photo.jpg" alt="Shahrzad in Galactic Fashion" style="width: 320px; height: 450px; object-fit: cover; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+<p style="text-align: center; font-style: italic; color: #666;">Sharing the beauty of the cosmos through handmade galactic clothing.</p>
 
 ---
 
-### ⚽ Exploration & Vitality
-Living in different cities and countries since I was 18 has made me a global citizen. To keep my energy high and my mind sharp, I enjoy:
-* **Soccer:** For teamwork and high-intensity strategy.
-* **Traveling:** Visiting observatories and science academies worldwide to experience diverse cultures.
+### 📸 Moments in Science
+
+<img src="Saturn.jpg" alt="Shahrzad Sheikhi at Saturn Monument" style="width: 300px; height: 300px; object-fit: cover; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<p style="text-align: center; font-style: italic; color: #666;">Exploring the intersection of art and planetary science.</p>
 
 ---
 
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
+### 🧭 Navigation
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄
