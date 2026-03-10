@@ -21,7 +21,7 @@ Ballet is where my discipline meets my creativity. Just like the orbits of plane
 ### 👗 Galactic Fashion & Entrepreneurship
 I believe in having "a little bit of galaxy in everything I own." I founded a business selling **handmade galactic clothing and accessories** to share the beauty of the cosmos through wearable art. 
 
-<img src="images/dress_photo.jpg" alt="Shahrzad Galactic Fashion" style="width: 320px; height: 450px; object-fit: cover; border-radius: 12px; display: block; margin: 20px 0; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+<img src="dress_photo.jpg" alt="Shahrzad Galactic Fashion" style="width: 320px; height: 450px; object-fit: cover; border-radius: 12px; display: block; margin: 20px 0; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 <p style="font-style: italic; color: #666;">Handmade designs inspired by high-energy astrophysics.</p>
 
 
