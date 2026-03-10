@@ -38,6 +38,5 @@ Living in different cities and countries since I was 18 has made me a global cit
 * **Soccer:** For teamwork and strategy.
 * **Traveling:** Visiting observatories and science academies worldwide.
 
----
-
+---### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
