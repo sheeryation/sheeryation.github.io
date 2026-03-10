@@ -10,7 +10,7 @@ title: Observational Skills | Shahrzad Sheikhi
 * **2.6m Cassegrain Telescope:** Active experience in optical data acquisition for high-energy transient candidates and GRB follow-ups.
 * **1m Schmidt Telescope:** Conducted wide-field imaging and survey-based observations.
 
-<img src="images/byurakan_photo.jpg" alt="Shahrzad at Byurakan Observatory" style="width:100%; max-width:600px; border-radius: 12px; border: 1px solid #ddd; display: block; margin: 20px auto;">
+<img src="byurakan_photo.jpg" alt="Shahrzad at Byurakan Observatory" style="width:25%; max-width:150px; border-radius: 12px; border: 1px solid #ddd; display: block; margin: 20px auto;">
 <p style="text-align: center; font-style: italic; color: #666;">Operating the 2.6m telescope at Byurakan, Armenia</p>
 
 #### **Iranian National Observatory (INO), Iran**
@@ -29,7 +29,7 @@ I believe a true astrophysicist should know the constellations as well as they k
     * Years of experience in telescope collimation, star-hopping, and visual photometry.
 * **Solar Astronomy:** Sunspot tracking and white-light solar observation using specialized filtration.
 
-<img src="images/dobsonian_photo.jpg" alt="Shahrzad with Dobsonian Telescope" style="width:100%; max-width:600px; border-radius: 12px; border: 1px solid #ddd; display: block; margin: 20px auto;">
+<img src="dobsonian_photo.jpg" alt="Shahrzad with Dobsonian Telescope" style="width:25%; max-width:150px; border-radius: 12px; border: 1px solid #ddd; display: block; margin: 20px auto;">
 <p style="text-align: center; font-style: italic; color: #666;">Field observation with my 14" Dobsonian telescope</p>
 
 ---
