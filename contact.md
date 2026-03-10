@@ -10,5 +10,6 @@ title: Contact | Shahrzad Sheikhi
 * 💼 **LinkedIn:** [Sherry Sheykhi](https://www.linkedin.com/in/sherry-sheykhi-01904b168/) 
 * 📍 **Location:** Yerevan, Armenia 
 
----### 🧭 Navigation
+---
+### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
