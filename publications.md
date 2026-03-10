@@ -14,5 +14,6 @@ title: Publications | Shahrzad Sheikhi
 * **17th Marcel Grossman Meeting**, Pescara, Italy (2024).
 * **Astronomy Heritage of the Middle East (AHME2)**, Yerevan, Armenia (2025).
 
----### 🧭 Navigation
+---
+### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
