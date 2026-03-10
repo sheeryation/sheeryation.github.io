@@ -40,5 +40,4 @@ While my feet are on the ground, my research often utilizes space-based "observa
 * **Spectroscopic Archives:** Analysis of data from the **ESO Archive (FEROS Spectrograph)**.
 
 ---
-### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
