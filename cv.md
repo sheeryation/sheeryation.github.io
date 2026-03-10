@@ -8,4 +8,5 @@ title: CV | Shahrzad Sheikhi
 [Click here to download my CV (PDF)](-Shahrzad Sheikhi CV1-.pdf)
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
+
