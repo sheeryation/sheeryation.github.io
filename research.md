@@ -18,5 +18,6 @@ title: Research | Shahrzad Sheikhi
 > Professional experience simulating stellar evolution using the **MESA** platform.
 
 
----### 🧭 Navigation
+---
+### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
