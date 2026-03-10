@@ -13,7 +13,7 @@ I am an astrophysicist and professional data scientist dedicated to decoding the
 
 My journey is defined by resilience. After successfully defeating a brain tumor during my studies, I committed myself to becoming an idol for girls worldwide to fight for their dreams. My passion for the stars extends to my lifestyle—I even run a business selling handmade galactic clothing and accessories.
 
-<img src="Saturn.jpg" alt="Shahrzad Sheikhi*"  style="width:100px; max-width:100px; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #eee;">
+<img src="Saturn.jpg" alt="Shahrzad Sheikhi*"  style="width:25%; max-width:200px; border-radius: 12px; display: block; margin: 20px auto; border: 1px solid #eee;">
 <p style="text-align: center; font-style: italic; color: #666;"
 <div style="clear: both;"></div>
 
