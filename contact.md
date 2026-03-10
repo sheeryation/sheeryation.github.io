@@ -11,4 +11,5 @@ title: Contact | Shahrzad Sheikhi
 * 📍 **Location:** Yerevan, Armenia 
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
+
