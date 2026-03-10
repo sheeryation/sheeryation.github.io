@@ -15,4 +15,5 @@ title: Publications | Shahrzad Sheikhi
 * **Astronomy Heritage of the Middle East (AHME2)**, Yerevan, Armenia (2025).
 
 ---
-**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [📄 CV](cv) | [✉️ Contact](contact)**
+**[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭Observational skills](Observationalskills) |[📄 CV](cv) | [✉️ Contact](contact)**
+
