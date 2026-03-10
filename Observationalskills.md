@@ -39,6 +39,5 @@ While my feet are on the ground, my research often utilizes space-based "observa
 * **High-Energy Archives:** Expert in retrieving raw data from **Fermi/LAT** and **Swift (BAT/XRT)**.
 * **Spectroscopic Archives:** Analysis of data from the **ESO Archive (FEROS Spectrograph)**.
 
----
-
+---### 🧭 Navigation
 **[🏠 Home](index) | [🔭 Research](research) | [📚 Publications](publications) | [🎨 Hobbies](hobbies) | [🔭 Observational Skills](Observationalskills) | [📄 CV](cv) | [✉️ Contact](contact)**
